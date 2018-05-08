@@ -1,6 +1,11 @@
 # DeepLearning_RNN
 This Repo representing another popular neural network,Recurrent Neural Networks (RNNs), which are the natural extention of feedforward networks to understanding the input / output relationship between ordered sequences.
 
+For example, here is the time sequence data, which represents 140 days Apple stock price. Using RNNs to regress the train data, learning the relationship between ordered sequences: time and stock price. And the RNNs model can be used to make prediction on the future sequences.
+
+<img width="961" alt="apple_rnn_prediction" src="https://user-images.githubusercontent.com/36088488/39732428-e464f98a-5232-11e8-9a12-d1fe10a8b206.png">
+
+
 There are two folders, 
 
 - one representing a project using tensorflow,keras to implement RNNs. 
