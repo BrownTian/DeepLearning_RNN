@@ -10,3 +10,7 @@ There are two folders,
 
 - one representing a project using tensorflow,keras to implement RNNs. 
 - another is build RNNs from scratch, based on matrix operation, and use the autograd Lib.
+
+
+If you have any question or comments, please feel free to contact me: bowentian2017@u.northwestern.edu 
+The material in this repository is not to be distributed, copied, or reused without written permission from the author.
