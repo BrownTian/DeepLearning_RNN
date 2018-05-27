@@ -9,7 +9,7 @@ For example, here is the time sequence data, which represents 140 days Apple sto
 There are two folders, 
 
 - one representing a project using tensorflow,keras to implement RNNs. 
-- another is build RNNs from scratch, based on matrix operation, and use the autograd Lib.
+- another is building RNNs from scratch, based on matrix operation, and use the autograd API.
 
 
 If you have any question or comments, please feel free to contact me: bowentian2017@u.northwestern.edu 
