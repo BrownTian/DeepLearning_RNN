@@ -8,8 +8,16 @@ For example, here is the time sequence data, which represents 140 days Apple sto
 
 There are two folders, 
 
-- one representing a project using tensorflow,keras to implement RNNs. 
-- another is building RNNs from scratch, based on matrix operation(using numpy), and use the autograd API.
+- RNNs_keras folder represents a project using tensorflow,keras to implement RNNs. 
+- RNN_fromscratch folder contains building RNNs from scratch based on matrix operation(using numpy), and using the autograd API.
+
+There is a simply implement of [simple RNN](https://github.com/BrownTian/DeepLearning_RNN/blob/master/RNN_fromscratch/RNN.ipynb) from scratch to deal with time sequence data, and this architecture can perform very well.
+
+Apple Stock Example:
+
+<img width="1425" alt="2018-05-29 12 36 21" src="https://user-images.githubusercontent.com/36088488/40639791-705706b2-62d8-11e8-872c-3b98db3000b2.png">
+
+<img width="1410" alt="2018-05-29 12 36 34" src="https://user-images.githubusercontent.com/36088488/40639792-70782d74-62d8-11e8-9c0b-2771ecfcce6b.png">
 
 
 If you have any question or comments, please feel free to contact me: bowentian2017@u.northwestern.edu 
